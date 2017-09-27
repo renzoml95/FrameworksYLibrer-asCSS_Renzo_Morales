@@ -1,0 +1,78 @@
+body{
+  background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-position: center;
+    background-attachment: fixed;
+}
+h1{
+  font-family: Comic;
+}
+.favoritos div{
+  padding: 5px;
+}
+.menu2 .menu li{
+  border: 1px solid black;
+  border-radius: 16px 8px 16px 8px;
+  -webkit-transition:1s;
+  transition: 1s;
+}
+.menu li a{
+  color: rgba(150, 27, 27, 1);
+font-family: comic;
+}
+.menu li:hover{
+  background-color:rgba(38, 84, 76, 0.4);
+  border-radius: 8px 16px 8px 16px ;
+}
+header{
+    border-bottom: 2px solid rgba(0,0,0,.6);
+    margin-bottom: 6px;
+}
+body > div{
+    padding: 30px!important;
+    padding-top: 5px!important;
+}
+h1{
+    line-height: 40px;
+}
+h2{
+    font-family: time new roman;
+}
+h4{
+    font-family: comic;
+    margin-top: 6px;
+}
+h5{
+    padding-left: 15px;
+    font-family: sans-serif;
+   color: rgba(255, 255, 255, 1);
+}
+body>div>div:last-child{
+    padding: 20x;
+}
+label{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+}
+form{
+    padding: 12px 0px 0px 0px;
+    border-top: 0.5px solid rgba(204, 227, 217, 1);
+    border-bottom: 0.5px solid rgba(204, 227, 217, 1);
+}
+strong{
+    font-family: comic cursive;
+    font-size: 23px;
+}
+ol li{
+   color: rgba(255, 255, 255, 1);
+}
+.comentarios>div{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,.5);
+    border-radius: 10px;
+    background-color: rgba(124, 184, 147, 1);
+    font-weight: bold;
+    font-size: 14px;
+    
+}

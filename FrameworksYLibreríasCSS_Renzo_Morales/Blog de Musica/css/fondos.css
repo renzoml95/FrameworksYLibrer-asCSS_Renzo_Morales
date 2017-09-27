@@ -1,0 +1,25 @@
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.brown{
+  background-color: brown;
+}
+.black{
+  background-color: black;
+}
+.blue{
+  background-color: blue;
+}
+.celest{
+  background-color: celest;
+}
+.white{
+  background-color:white;
+}
+.borderblack{
+	border:1.5px solid rgba(0,0,0,.5);
+  background-color: #4527a0;
+}

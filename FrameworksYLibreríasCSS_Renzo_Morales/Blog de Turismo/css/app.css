@@ -1,0 +1,41 @@
+nav{
+  background-color: rgba(0,0,0,0);
+  box-shadow: none!important;
+  height: 6.5rem;
+}
+
+body{
+  background: linear-gradient(#42a5f5,#0288d1 , #03a9f4,#0288d1 ) left top no-repeat fixed, url(../img/fondo.jpg) right bottom no-repeat fixed; /* For browsers that do not support gradients */
+  background-size: 100% 19%,100% 82%;
+}
+img+h5{
+  border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+  padding-bottom: 8px;
+}
+.comentarios .card{
+  padding: 10px;
+}
+.padd{
+  padding: 25px!important;
+}
+.valign{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items:flex-end;
+      -ms-flex-align: center;
+          align-items: flex-end;
+}
+
+.row div ul li a img{
+  width: 60%!important;
+  filter: grayscale(40%);
+  padding: 15px;
+
+}
+.row div ul{
+  margin: auto;
+  text-align: center;
+}
